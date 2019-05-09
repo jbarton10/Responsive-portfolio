@@ -135,10 +135,11 @@ body{
 #imageHolder{
     width: 700px;
     margin: auto 0px;
-    position: relative;
+    position: absolute, relative;
     background: #ffffff;
     line-height: 30px;
     height:950px;
+    
 
 }
 
