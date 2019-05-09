@@ -254,10 +254,10 @@ body{
         width:100%;
     }
     .childDiv1{
-        left: 10px;
+        left: 20px;
     }
     .childDiv2{
-        right:10px;
+        right:20px;
     }
     .underline{
         margin: 0px auto 0px auto;
